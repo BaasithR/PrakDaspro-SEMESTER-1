@@ -1,9 +1,9 @@
 # JOBSHEET 4 - PEMILIHAN 1
 
 **Identitas Mahasiswa:**
-* **Nama:** [Nama Mahasiswa]
-* **NIM:** [NIM Mahasiswa]
-* **Kelas / No. Presensi:** [1A / 01]
+* **Nama:** [Mochamad Razan Al Baasith]
+* **NIM:** [264107020145]
+* **Kelas / No. Presensi:** [1D / 19]
 
 ---
 
