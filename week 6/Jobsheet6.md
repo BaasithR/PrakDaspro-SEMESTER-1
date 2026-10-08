@@ -210,7 +210,8 @@ public class tugas1diskonBuku19 {
 }
 ```
    * **Hasil Running**
-    ![Output Tugas 1](<output diskon buku.png>)
+
+![Output Tugas 1](<output diskon buku.png>)
 
    2. Tugas 2:
    * **Kode Program Java**
@@ -255,4 +256,5 @@ public class tugas2SeleksiAsisten {
 }
 ```
    * **Hasil Running**
-   ![Output Tugas 2](<output seleksi asisten.png>)
+
+![Output Tugas 2](<output seleksi asisten.png>)
