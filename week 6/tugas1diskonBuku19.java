@@ -8,7 +8,7 @@ public class tugas1diskonBuku19 {
     String buku;
     int jumlah;
 
-    System.out.print("Buku apa yg ingin kamu beli?  ");
+    System.out.print("Buku apa yg ingin kamu beli? ");
     buku = sc.next();
 
     System.out.print("Berapa jumlah bukunya? ");

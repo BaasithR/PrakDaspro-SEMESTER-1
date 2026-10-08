@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DiskonTokoBuku19 {
+public class DiskonTokoBukuTrial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
