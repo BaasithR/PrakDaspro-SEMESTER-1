@@ -4,20 +4,14 @@ public class NusantaraPay19 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("--- Nusantara Pay: Cek Keamanan Transaksi ---");
-
         System.out.print("Status akun (NORMAL/SUSPICIOUS/BLACK-LISTED): ");
         String statusAkun = sc.next();
-
         System.out.print("Nominal transaksi ($): ");
         double nominal = sc.nextDouble();
-
         System.out.print("Sisa saldo ($): ");
         double saldo = sc.nextDouble();
-
         System.out.print("Transaksi dari luar negeri? (true/false): ");
         boolean isBedaNegara = sc.nextBoolean();
-
         System.out.print("Jam transaksi (0-23): ");
         int jam = sc.nextInt();
 
@@ -39,9 +33,6 @@ public class NusantaraPay19 {
         } else {
             status = "APPROVED";
         }
-
         System.out.println("Status transaksi: " + status);
-
-        sc.close();
     }
 }
